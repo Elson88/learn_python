@@ -1,4 +1,4 @@
-print('hi')
+
 
 def add(x, y):
     """Add Function"""
