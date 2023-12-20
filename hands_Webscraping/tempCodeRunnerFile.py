@@ -1,0 +1,1 @@
+rows = tables[0].find_all('tr')

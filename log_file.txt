@@ -1,0 +1,10 @@
+2023-Nov-23-23:10:51,ETL Job Started
+2023-Nov-23-23:10:51,Extract phase Started
+2023-Nov-23-23:11:12,ETL Job Started
+2023-Nov-23-23:11:12,Extract phase Started
+2023-Nov-23-23:15:33,ETL Job Started
+2023-Nov-23-23:15:33,Extract phase Started
+2023-Nov-26-12:13:05,ETL Job Started
+2023-Nov-26-12:13:05,Extract phase Started
+2023-Nov-26-12:13:34,ETL Job Started
+2023-Nov-26-12:13:34,Extract phase Started
